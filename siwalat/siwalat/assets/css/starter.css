@@ -1,0 +1,24 @@
+.max-img {
+  max-width: 100%;
+}
+
+.hr {
+  height: 2px;
+  background-color: #ffffff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 16px;
+}
+
+.navbar {
+  padding: 32px 1rem;
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+/*# sourceMappingURL=starter.css.map */
